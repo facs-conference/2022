@@ -22,7 +22,7 @@
 // Conference
 window.conference = {
     config: {
-        baseurl: '/FACS2022'
+        baseurl: '/2022'
     }
 };
 
