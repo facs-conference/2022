@@ -1,9 +1,14 @@
 {
     "days": [
         {
-            "name": "Monday",
-            "hash": "mo",
-            "date": "2020-01-31"
+            "name": "Thursday",
+            "hash": "thu",
+            "date": "2022-11-10"
+        },
+        {
+            "name": "Friday",
+            "hash": "fri",
+            "date": "2022-11-11"
         }
     ],
 
@@ -11,17 +16,37 @@
     },
 
     "speakers": {
-        "Tolga Philip" : {
-            "name": "Tolga Philip",
-            "href": "/2022/speakers/person-a/"
+        "Speaker 1" : {
+            "name": "Speaker 1",
+            "href": "/2022/speakers/speaker1/"
         },
-        "Alex Rosales" : {
-            "name": "Alex Rosales",
-            "href": "/2022/speakers/person-b/"
+        "Speaker 2" : {
+            "name": "Speaker 2",
+            "href": "/2022/speakers/speaker2/"
         },
-        "The Anonymous" : {
-            "name": "The Anonymous",
-            "href": ""
+        "Speaker 3" : {
+            "name": "Speaker 3",
+            "href": "/2022/speakers/speaker3/"
+        },
+        "Speaker 4" : {
+            "name": "Speaker 4",
+            "href": "/2022/speakers/speaker4/"
+        },
+        "Speaker 5" : {
+            "name": "Speaker 5",
+            "href": "/2022/speakers/speaker5/"
+        },
+        "Speaker 6" : {
+            "name": "Speaker 6",
+            "href": "/2022/speakers/speaker6/"
+        },
+        "Speaker 7" : {
+            "name": "Speaker 7",
+            "href": "/2022/speakers/speaker7/"
+        },
+        "Speaker 8" : {
+            "name": "Speaker 8",
+            "href": "/2022/speakers/speaker8/"
         }
     },
 
