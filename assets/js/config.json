@@ -1,9 +1,4 @@
 {
-    "map": {
-        "map_provider": "OpenStreetMap.Mapnik",
-        "home_coord": [47.37808, 8.53935],
-        "default_zoom": 17
-    },
 
     "live": {
         "time": {
@@ -26,10 +21,6 @@
     },
 
     "lang": {
-        "map": {
-            "focus_conf": "Center map on conference location",
-            "focus_me": "Show my current location"
-        },
         "live": {
             "pre_stream": "Live stream has not started yet.",
             "post_stream": "Live stream has ended.",
