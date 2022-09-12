@@ -16,6 +16,166 @@
     },
 
     "speakers": {
+        "Aaron Dutle" : {
+            "name": "Aaron Dutle",
+            "href": "/2022/speakers/aarondutle/"
+        },
+        "Ahang Zuo" : {
+            "name": "Ahang Zuo",
+            "href": "/2022/speakers/ahangzuo/"
+        },
+        "Angel Contreras" : {
+            "name": "Angel Contreras",
+            "href": "/2022/speakers/angelcontreras/"
+        },
+        "Angelo Gargantini" : {
+            "name": "Angelo Gargantini",
+            "href": "/2022/speakers/angelogargantini/"
+        },
+        "Anton Wijs" : {
+            "name": "Anton Wijs",
+            "href": "/2022/speakers/antonwijs/"
+        },
+        "Arpit Sharma" : {
+            "name": "Arpit Sharma",
+            "href": "/2022/speakers/arpitsharma/"
+        },
+        "Bas Luttik" : {
+            "name": "Bas Luttik",
+            "href": "/2022/speakers/basluttik/"
+        },
+        "Cosimo Laneve" : {
+            "name": "Cosimo Laneve",
+            "href": "/2022/speakers/cosimolaneve/"
+        },
+        "Diego F. Aranha" : {
+            "name": "Diego F. Aranha",
+            "href": "/2022/speakers/diegofaranha/"
+        },
+        "Domenico Bianculli" : {
+            "name": "Domenico Bianculli",
+            "href": "/2022/speakers/domenicobianculli/"
+        },
+        "Elvinia Riccobene" : {
+            "name": "Elvinia Riccobene",
+            "href": "/2022/speakers/elviniariccobene/"
+        },
+        "Franco Barbanera" : {
+            "name": "Franco Barbanera",
+            "href": "/2022/speakers/francobarbanera/"
+        },
+        "Frank de Boer" : {
+            "name": "Frank de Boer",
+            "href": "/2022/speakers/frankdeboer/"
+        },
+        "Gwen Salaün" : {
+            "name": "Gwen Salaün",
+            "href": "/2022/speakers/gwensalaun/"
+        },
+        "Hans Dieter Hiep" : {
+            "name": "Hans Dieter Hiep",
+            "href": "/2022/speakers/hansdieterhiep/"
+        },
+        "Jalil Boudjadar" : {
+            "name": "Jalil Boudjadar",
+            "href": "/2022/speakers/jalilboudjadar/"
+        },
+        "Jinting Bian" : {
+            "name": "Jinting Bian",
+            "href": "/2022/speakers/jintingbian/"
+        },
+        "Joshua Dawes" : {
+            "name": "Joshua Dawes",
+            "href": "/2022/speakers/joshuadawes/"
+        },
+        "Laurynas Ubys" : {
+            "name": "Laurynas Ubys",
+            "href": "/2022/speakers/laurynasubys/"
+        },
+        "Luc Edixhoven" : {
+            "name": "Luc Edixhoven",
+            "href": "/2022/speakers/lucedixhoven/"
+        },
+        "Mariangiola Dezani-Ciancaglini" : {
+            "name": "Mariangiola Dezani-Ciancaglini",
+            "href": "/2022/speakers/mariangioladezaniciancaglini/"
+        },
+        "Mariano Moscato" : {
+            "name": "Mariano Moscato",
+            "href": "/2022/speakers/marianomoscato/"
+        },
+        "Mark Bouwman" : {
+            "name": "Mark Bouwman",
+            "href": "/2022/speakers/markbouwman/"
+        },
+        "Maurice Laveaux" : {
+            "name": "Maurice Laveaux",
+            "href": "/2022/speakers/mauricelaveaux/"
+        },
+        "Paolo Masci" : {
+            "name": "Paolo Masci",
+            "href": "/2022/speakers/paolomasci/"
+        },
+        "Patrizia Scandurra" : {
+            "name": "Patrizia Scandurra",
+            "href": "/2022/speakers/patriziascandurra/"
+        },
+        "Peter Gorm Larsen" : {
+            "name": "Peter Gorm Larsen",
+            "href": "/2022/speakers/petergormlarsen/"
+        },
+        "Quentin Nivon" : {
+            "name": "Quentin Nivon",
+            "href": "/2022/speakers/quentinnivon/"
+        },
+        "Rikayan Chaki" : {
+            "name": "Rikayan Chaki",
+            "href": "/2022/speakers/rikayanchaki/"
+        },
+        "Silvia Bonfanti" : {
+            "name": "Silvia Bonfanti",
+            "href": "/2022/speakers/silviabonfanti/"
+        },
+        "Silvia Crafa" : {
+            "name": "Silvia Crafa",
+            "href": "/2022/speakers/silviacrafa/"
+        },
+        "Stijn de Gouw" : {
+            "name": "Stijn de Gouw",
+            "href": "/2022/speakers/stijndegouw/"
+        },
+        "Sung-Shik Jongmans" : {
+            "name": "Sung Shik Jongmans",
+            "href": "/2022/speakers/sungshikjongmans/"
+        },
+        "Susmoy Das" : {
+            "name": "Susmoy Das",
+            "href": "/2022/speakers/susmoydas/"
+        },
+        "Tim Willemse" : {
+            "name": "Tim Willemse",
+            "href": "/2022/speakers/timwillemse/"
+        },
+        "Tomas Kulik" : {
+            "name": "Tomas Kulik",
+            "href": "/2022/speakers/tomaskulik/"
+        },
+        "Ugo De'Liguoro" : {
+            "name": "Ugo De'Liguoro",
+            "href": "/2022/speakers/ugodeliguoro/"
+        },
+        "Valeriu Nicolas Vancea" : {
+            "name": "Valeriu Nicolas Vancea",
+            "href": "/2022/speakers/valeriunicolasvancea/"
+        },
+        "Victor Carreno" : {
+            "name": "Victor Carreno",
+            "href": "/2022/speakers/victorcarreno/"
+        },
+        "Yliès Falcone" : {
+            "name": "Yliès Falcone",
+            "href": "/2022/speakers/yliesfalcone/"
+        },
         "Christel Baier" : {
             "name": "Christel Baier",
             "href": "/2022/speakers/christelbaier/"
