@@ -1,12 +1,12 @@
 {
     "days": [
         {
-            "name": "Thursday",
+            "name": "Thursday, 10 Nov",
             "hash": "thu",
             "date": "2022-11-10"
         },
         {
-            "name": "Friday",
+            "name": "Friday, 11 Nov",
             "hash": "fri",
             "date": "2022-11-11"
         }
@@ -145,7 +145,7 @@
             "href": "/2022/speakers/stijndegouw/"
         },
         "Sung-Shik Jongmans" : {
-            "name": "Sung Shik Jongmans",
+            "name": "Sung-Shik Jongmans",
             "href": "/2022/speakers/sungshikjongmans/"
         },
         "Susmoy Das" : {
